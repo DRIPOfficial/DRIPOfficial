@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRIPOfficial
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning scripting
+- 🌱 I’m currently learning script
 - 💞️ I’m looking to collaborate on Naruto5g
 - 📫 How to reach me: dripsuperfico@gmail.com
 - 😄 Pronouns: DRIP
