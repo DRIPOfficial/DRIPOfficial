@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Naruto5g
 - 📫 How to reach me: dripsuperfico@gmail.com
 - 😄 Pronouns: DRIP
-- ⚡ Fun fact: Niente...
+- ⚡ Fun fact: Nothing
+  
 
 <!---
 DRIPOfficial/DRIPOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
