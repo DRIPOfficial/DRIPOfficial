@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DRIPOfficial
-- 👀 I’m interested in Hacking
+- 👀 I’m interested in VideoGames
 - 🌱 I’m currently learning script
 - 💞️ I’m looking to collaborate on Naruto5g
 - 📫 How to reach me: dripsuperfico@gmail.com
