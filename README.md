@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @DRIPOfficial
-- 👀 I’m interested in VideoGames
-- 🌱 I’m currently learning script
-- 💞️ I’m looking to collaborate on Naruto5g
-- 📫 How to reach me: dripsuperfico@gmail.com
-- 😄 Pronouns: DRIP
-- ⚡ Fun fact: Nothing
-  
-
-<!---
-DRIPOfficial/DRIPOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> Hi 👋, i am <em> DRIP</em>
+<br />
+I am a unity developer and scripter.</h1>
+<div align = "center">
+<p><img src = "https://i.pinimg.com/originals/da/80/be/da80bebd996f2d246aa914ef2bcb7ed6.png"></p>
+<hr>
+<div align = "left">
+<p>For now, you can check out some of my projects:</p>
+<ul>
+<hr>
+<div align = "center">
